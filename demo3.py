@@ -1,0 +1,5 @@
+print(''' demo for all type ''')
+print(""" demo to all """)
+print("vale of demo right"); print("one line code")
+print("value that", end=" ")
+print("one line code")
