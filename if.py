@@ -4,4 +4,3 @@ year=int(input("entar value of num"))
 
 if year>=18:
     print("you are eligible for voting")
-e
