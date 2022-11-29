@@ -29,4 +29,4 @@ elif planet1==2 and planet2==3:
 elif planet1==3 and planet2==4:
     answer=-149600000-(-227900000)
     print("distance between Earth to Mars",answer)
-elif planet1=4 and     
+# elif planet1=4 and     
